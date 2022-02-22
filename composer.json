@@ -1,0 +1,20 @@
+{
+    "name": "bendrere/my-composer",
+    "description": "this is my first test composer project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bendrere\\MyComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bendrere",
+            "email": "n1k1n1k1n1k170s@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.*"
+    }
+}
