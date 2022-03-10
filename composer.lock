@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "1ed1ac727e0808cb31a973df5fe6212f",
+    "packages": [
+        {
+            "name": "peshko/testcomposer",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PavelPeshko/testcomposer.git",
+                "reference": "02fbce832b58f17ccf567c5c2821b71a3f18313c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PavelPeshko/testcomposer/zipball/02fbce832b58f17ccf567c5c2821b71a3f18313c",
+                "reference": "02fbce832b58f17ccf567c5c2821b71a3f18313c",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Pasha Peshko",
+                    "email": "0pashapeshko0@gmail.com"
+                }
+            ],
+            "description": "my test composer package",
+            "support": {
+                "issues": "https://github.com/PavelPeshko/testcomposer/issues",
+                "source": "https://github.com/PavelPeshko/testcomposer/tree/master"
+            },
+            "time": "2022-02-22T17:21:59+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "peshko/testcomposer": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.6"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
